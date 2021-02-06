@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="377c8171-0290-4f2b-bde3-7bee59b5646e" name="Default Changelist" comment="">
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-886447738-2432907650-4130834556-1001/$IT777Q6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/7-10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/7-13.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/7-6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/7-7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/addform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/conn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/editform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBConn/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileUpload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/movie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/commentFilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/doLogin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/doVideoDelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/doVideoUpdate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/doVideoUpload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/image/BG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/left.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/userComment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/videoManage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/videoUpdate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/videoUpload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureArea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/battleArea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doComment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doFavourite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doLogin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doRegister.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doUpdatePassword.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doUpdateUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funnyArea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotVideo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/checkform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/commentdao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/conn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/likedao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/userdao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/vericode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/videodao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latestVideo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otherArea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searchArea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateLike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updatePassword.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userCenter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberGame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/do_edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/lib/fun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/login_out.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/msg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/publish.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/css/add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/css/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/css/done.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/css/error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/file/2019/0813/5d525f98255351294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/file/2019/0813/5d526745b420b2214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/file/2019/0813/5d526ae465dad9735.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/file/2019/0813/5d526af27ed8b3782.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/file/2019/0816/5d56496e12ccf6306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/file/2019/0816/5d5649cae126a2472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/file/2019/0816/5d564a21d450d4748.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/image/details_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/image/index_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/image/login_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/image/welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/auto-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/colorpicker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/custom-plugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/custom-theme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/dialog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/dynamic-load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/file-dialog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/file-manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/filter-mode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/image-dialog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/jquery-ui-1.9.2.custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/css/smoothness/jquery-ui-1.9.2.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/js/jquery-ui-1.9.2.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery-ui/js/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/multi-image-dialog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/multi-language.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/newline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/node.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/paste-type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/qqstyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/readonly.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/uploadbutton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/url-type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/examples/word-count.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/kindeditor-4.1.11.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/kindeditor-all-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/kindeditor-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/kindeditor-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/kindeditor.fx.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/kindeditor.fx.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/kindeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/kindeditor_egg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/lang/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/lang/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/lang/zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/lang/zh_TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/php/JSON.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/php/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/php/file_manager_json.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/php/upload_json.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/anchor/anchor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/autoheight/autoheight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/baidumap/baidumap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/baidumap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/baidumap/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/clearhtml/clearhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/code/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/code/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/code/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/emoticons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/100.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/101.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/102.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/103.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/104.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/105.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/106.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/107.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/108.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/109.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/110.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/111.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/112.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/113.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/114.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/115.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/116.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/117.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/118.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/119.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/120.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/121.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/122.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/123.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/124.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/125.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/126.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/127.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/128.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/129.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/130.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/131.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/132.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/133.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/134.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/72.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/73.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/74.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/76.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/77.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/78.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/79.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/80.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/81.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/82.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/83.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/84.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/85.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/86.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/87.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/88.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/89.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/90.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/91.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/92.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/93.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/94.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/95.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/96.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/97.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/98.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/99.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/emoticons/images/static.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/filemanager/filemanager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/filemanager/images/file-16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/filemanager/images/file-64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/filemanager/images/folder-16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/filemanager/images/folder-64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/filemanager/images/go-up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/flash/flash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/image/images/align_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/image/images/align_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/image/images/align_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/image/images/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/insertfile/insertfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/lineheight/lineheight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/link/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/map/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/media/media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/multiimage/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/multiimage/images/select-files-en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/multiimage/images/swfupload.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/multiimage/multiimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/pagebreak/pagebreak.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/plainpaste/plainpaste.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/preview/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/quickformat/quickformat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/table/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/template/html/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/template/html/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/template/html/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/plugins/wordpaste/wordpaste.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/common/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/common/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/common/flash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/common/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/common/media.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/common/rm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/default/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/default/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/default/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/qq/editor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/qq/qq.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/kindeditor/themes/simple/simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/skin/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/skin/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/layer/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/themes/iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/ueditor.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/ueditor.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/ueditor.parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/static/js/ue/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text/web_image-text.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/common/album.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/common/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/common/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/common/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/common/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2018-05/29/1b8dba8623ca1b893a72e2fd18926c11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2018-05/29/2c677036ba7d6381be0120d1e201e95c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2018-05/29/3aa2db7255084f935d325a69d6feb5b7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2018-05/29/d4594daa988c5bbb2e73b666a1948a28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2018-05/30/4ddb9e874649be34d4d7d8f17f2a00d7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2019-05/21/19dc34339e6d44ebb47a40d215559b0e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2019-05/21/510974e5d3b02f9a7e5ea3a12ba1a504.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2019-05/21/8dee0de484daf6377d4665e0e76cbab6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2019-05/21/8f58d3a88af08c9434243669d9aaf9ba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2019-05/21/fbc6ce415f4aa5ac419162d77d789906.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2020-12/15/08ef5ada6b5c05e4a6da8faaaa013923.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/2020-12/15/afda03014594b6f0e3637ff43cdd2c44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/covers/nopic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/repair.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/show.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/10c21ffd5489fc00968d9637e0e5d58d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/1b8dba8623ca1b893a72e2fd18926c11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/2c677036ba7d6381be0120d1e201e95c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/3aa2db7255084f935d325a69d6feb5b7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/4a286b7e7b12e63c5532936af7327b7f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/618b722e8df074ae4382b6810a42d3a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/893d9d7a72c2f581e1cdf4656cc40200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/8b95b0a460dca60bf6b8daf0beeba9a0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/a9ed3676a646f042c2daac0f5f1f4aba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/c4e3a504167abc3f3012ebdcf65aa358.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/d1910def624c0dfb99a046940d24afad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/d4594daa988c5bbb2e73b666a1948a28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/dd29c0d592d90c444309697068b78c43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/29/f0646daea03edeb00f9abf6db0a2721f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-05/30/4ddb9e874649be34d4d7d8f17f2a00d7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2018-06/04/8854144406faef88bee08d5ec62fd349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/19dc34339e6d44ebb47a40d215559b0e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/510974e5d3b02f9a7e5ea3a12ba1a504.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/594aa5adcc1084e9fca172262d11651d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/60b7601201b301c3365632fbfc4b87c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/6a3f7dde941996cfed56d8db4f4438ec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/888b7cac70f649333552e86f13de86a0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/8dee0de484daf6377d4665e0e76cbab6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/8f58d3a88af08c9434243669d9aaf9ba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/950b1956c3a09a7197785e88b042b83c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/a3fe3b8701e91d3a8d6fcecaca75411e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/be4c35d19d966b4f20576fec9a318843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/c2319936660140c08afdb1d2495654a0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/e91f83e816d6a6cf9219cd9608b65237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2019-05/21/fbc6ce415f4aa5ac419162d77d789906.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2020-12/15/08ef5ada6b5c05e4a6da8faaaa013923.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2020-12/15/57e44dc537f5563171851c365d11b71d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2020-12/15/7296e37394b6d70d79707540f6af9904.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2020-12/15/935666587169018a2247b813d76a38d9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2020-12/15/a8e409ff83c4eb860d2c1406d8c1a088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2020-12/15/abad8f75a0cef02d75bf25afd201d706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/thumbs/2020-12/15/afda03014594b6f0e3637ff43cdd2c44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/uploads/2020-12/15/08ef5ada6b5c05e4a6da8faaaa013923.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/uploads/2020-12/15/57e44dc537f5563171851c365d11b71d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/uploads/2020-12/15/7296e37394b6d70d79707540f6af9904.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/uploads/2020-12/15/935666587169018a2247b813d76a38d9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/uploads/2020-12/15/a8e409ff83c4eb860d2c1406d8c1a088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/uploads/2020-12/15/abad8f75a0cef02d75bf25afd201d706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/uploads/2020-12/15/afda03014594b6f0e3637ff43cdd2c44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/view/common/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/view/common/top.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/view/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/view/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/view/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bgcd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cookie/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cookie/login_action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cookie/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../general.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/common/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/common/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/save.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/view/common/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/view/common/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/view/common/password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuyuanqiang/view/index.html" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/DeserializeDemo.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/DirList.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/DuoTai.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/Employee.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/GreetingClient.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/GreetingServer.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/IPTest.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/ScannerDemo.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/SelectName.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/SerializeDemo.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/SpiderTest01.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/Test.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/TestGeneric.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/TestGenericMethod.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/TestList.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/TestMap.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/tcp/Client.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/tcp/FileClient.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/tcp/FileServer.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/tcp/Server.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/Employee.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/IOUtils.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/TalkReceive.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/TalkSend.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/TalkStudent.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/TalkTeacher.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/UdpClient.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/UdpFileClient.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/UdpFileServer.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/UdpObjClient.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/UdpObjServer.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/UdpServer.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/UdpTypeClient.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/com/bjsxt/udp/UdpTypeServer.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/logo.png" afterDir="false" />
+      <change afterPath="D:/ideaWork/HelloWord/src/tmp/a" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/Aerocraft.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/AirForce.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/ArmyType.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/AttackAir.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/AttackLand.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/AttackLandAir.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/Bomber.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/FlyingSoldier.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/HeavyTank.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/Helicopter.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/Infantry.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/LandForce.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/LightTank.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/Soldier.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/Tank.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test3/Test.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test4/RecogC.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test4/SplitTest.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test5/RecogFixedPhoNum.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/class_test4/src/com/yyh/test5/RecogPhoNum.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/exam/src/com/yyh/window/LoginWindow.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/helloWeb/src/com/bjsxt/servlet/AddUser.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/hibernate-core-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/hibernate-entitymanager-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/jandex-2.0.0.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/javassist-3.18.1-GA.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/mysql-connector-java-5.0.4-bin.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/slf4j-api-1.6.1.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/lib/slf4j-log4j12-1.7.2.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/src/com/yyh/entity/User.hbm.xml" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/src/com/yyh/entity/User.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/src/com/yyh/hibernatetest/Demo.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/src/com/yyh/utils/HibernateUtils.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/hibernate01/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="D:/ideaWork/servlet/src/com/yyh/servlet/Servlet.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring-boot-web/src/main/java/com/yyh/springbootweb/controller/DemoController.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring-boot-web/src/main/java/com/yyh/springbootweb/controller/FileUploadController.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring-boot-web/src/main/java/com/yyh/springbootweb/filter/FirstFilter.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring-boot-web/src/main/java/com/yyh/springbootweb/listener/FirstListener.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring-boot-web/src/main/java/com/yyh/springbootweb/servlet/FirstServlet.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring-boot-web/src/main/resources/static/upload.html" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring-boot-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/aopalliance.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/aspectjrt.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/aspectjweaver.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/c3p0-0.9.2.1.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/hibernate-c3p0-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/hibernate-core-5.0.7.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/jandex-2.0.0.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/javassist-3.18.1-GA.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/mchange-commons-java-0.2.3.4.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-aop-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-aspects-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-beans-4.2.0.RELEASE(1).jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-context-4.2.0.RELEASE(1).jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-core-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-expression-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-jdbc-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-orm-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-test-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/lib/spring-tx-4.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/ideaWork/spring_hibernate/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="D:/ideaWork/springboot-mq/springboot-mq-consumer/src/main/java/com/yyh/springbootmqconsumer/PushReceiver.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/springboot-mq/springboot-mq-consumer/src/main/java/com/yyh/springbootmqconsumer/RedReceiver.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/springboot-mq/springboot-mq-consumer/src/main/java/com/yyh/springbootmqconsumer/SmsReceiver.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/springboot-mq/springboot-mq-consumer/src/main/java/com/yyh/springbootmqconsumer/SpringbootMqConsumerApplication.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/springboot-mq/springboot-mq-provider/src/main/java/com/yyh/springbootmqprovider/Sender.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/springboot-mq/src/main/java/com/yyh/springbootmq/QueueConfig.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/springboot-mq/src/main/java/com/yyh/springbootmq/Receiver.java" afterDir="false" />
+      <change afterPath="D:/ideaWork/springboot-mq/src/main/java/com/yyh/springbootmq/Sender.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css.map">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/latestVideo.php" />
+        <option value="$PROJECT_DIR$/otherArea.php" />
+        <option value="$PROJECT_DIR$/searchArea.php" />
+        <option value="$PROJECT_DIR$/updatePassword.php" />
+        <option value="$PROJECT_DIR$/updateUser.php" />
+        <option value="$PROJECT_DIR$/admin/left.php" />
+        <option value="$PROJECT_DIR$/admin/commentfilter.php" />
+        <option value="$PROJECT_DIR$/admin/main.php" />
+        <option value="$PROJECT_DIR$/admin/userComment.php" />
+        <option value="$PROJECT_DIR$/admin/videoManage.php" />
+        <option value="$PROJECT_DIR$/admin/videoUpdate.php" />
+        <option value="$PROJECT_DIR$/admin/videoUpload.php" />
+        <option value="$PROJECT_DIR$/admin/nav.php" />
+        <option value="$PROJECT_DIR$/video.php" />
+        <option value="$PROJECT_DIR$/userCenter.php" />
+        <option value="$PROJECT_DIR$/nav.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/doVideoDelete.php" />
+        <option value="$PROJECT_DIR$/init/commentdao.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/init/vericode.php" />
+        <option value="$PROJECT_DIR$/init/checkform.php" />
+        <option value="$PROJECT_DIR$/init/conn.php" />
+        <option value="$PROJECT_DIR$/init/likedao.php" />
+        <option value="$PROJECT_DIR$/doFavourite.php" />
+        <option value="$PROJECT_DIR$/doLogin.php" />
+        <option value="$PROJECT_DIR$/admin/doVideoUpload.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css.map" />
+        <option value="$PROJECT_DIR$/css/bootstrap-grid.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap-grid.css.map" />
+        <option value="$PROJECT_DIR$/css/bootstrap-grid.min.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" />
+        <option value="$PROJECT_DIR$/css/bootstrap-reboot.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap-reboot.css.map" />
+        <option value="$PROJECT_DIR$/css/bootstrap-reboot.min.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/bootstrap.bundle.js" />
+        <option value="$PROJECT_DIR$/js/bootstrap.bundle.js.map" />
+        <option value="$PROJECT_DIR$/js/bootstrap.bundle.min.js" />
+        <option value="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" />
+        <option value="$PROJECT_DIR$/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/js/bootstrap.js.map" />
+        <option value="$PROJECT_DIR$/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/js/bootstrap.min.js.map" />
+        <option value="$PROJECT_DIR$/js/jquery-3.4.1.js" />
+        <option value="$PROJECT_DIR$/js/jquery-3.5.1.js" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css.map" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="270" />
+    <option name="width" value="1335" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="movie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="movie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="movie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="377c8171-0290-4f2b-bde3-7bee59b5646e" name="Default Changelist" comment="" />
+      <created>1609248701789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609248701789</updated>
+      <workItem from="1609248702963" duration="67000" />
+      <workItem from="1609248787557" duration="4799000" />
+      <workItem from="1609254416826" duration="1250000" />
+      <workItem from="1609303097512" duration="1429000" />
+      <workItem from="1609308728518" duration="3207000" />
+      <workItem from="1609321630680" duration="1194000" />
+      <workItem from="1609322893616" duration="1175000" />
+      <workItem from="1609325448534" duration="283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13404000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1294" height="694" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26140064" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32841328" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24104235" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32841328" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/userComment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="77" column="7" lean-forward="true" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="37" column="93" selection-start-line="37" selection-start-column="93" selection-end-line="37" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userCenter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/videoUpdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="51" column="7" lean-forward="true" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/videoManage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/doVideoUpdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="60" lean-forward="true" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/image/BG.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3038">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/commentfilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/doVideoDelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/commentdao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doComment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/vericode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/checkform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/error.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/userdao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="52" column="72" selection-start-line="52" selection-start-column="72" selection-end-line="52" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/videodao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/likedao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/videoUpload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-278">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/doVideoUpload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="104" column="56" lean-forward="true" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doFavourite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-grid.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-grid.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-grid.min.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret column="405" selection-start-column="405" selection-end-column="405" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-reboot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-reboot.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-reboot.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-reboot.min.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.min.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.4.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.5.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+  </component>
+</project>

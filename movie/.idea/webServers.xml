@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8534afce-a953-480e-9ccb-bd6e9d3e87c3" name="localhost" url="http://localhost/movie">
+        <fileTransfer port="0" mountedRoot="D:\PHPWork" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

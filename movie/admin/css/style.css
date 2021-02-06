@@ -1,0 +1,103 @@
+.bg{
+    background-image: url(../image/BG.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+.bgCover{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginBox{
+    background-image: url(../image/BG.jpg);
+    position: relative;
+    border-radius: 15px;
+    border: 0;
+    width: 825px;
+    height: 480px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+.loginForm {
+    border-radius: 20px;
+    padding: 50px 45px 30px;
+    height: 440px;
+    width: 335px;
+    /*margin: 0 auto;*/
+    float: left;
+    background-color: #b4c6da;
+}
+.formTitle {
+    font-size: 26px;
+    color: #1F4881;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.formItem{
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.formInput{
+    height: 36px;
+    width: 100%;
+    font-size: 14px;
+    border: 1px solid #DCDFE6;
+    border-radius: 18px;
+    line-height: 32px;
+    padding: 0 15px;
+    outline: 0;
+    transition: border-color .2s cubic-bezier(.645,.045,.355,1);
+    display: inline-block;
+}
+.verifyCode{
+    width: 140px;
+}
+.checkBox{
+    width: 14px;
+    height: 14px;
+    margin-left: 10px;
+    vertical-align:middle;
+}
+.checkBoxText{
+    color: #606266;
+    font-weight: 500;
+    font-size: 14px;
+    cursor: pointer;
+}
+.button{
+    padding: 9px 15px;
+    border-radius: 20px;
+    width: 100%;
+    height: 38px;
+    font-size: 16px;
+    background: linear-gradient(to right, #2E9FFF, #3E79FF);
+    box-shadow: 0 4px 10px rgba(0, 123, 255, .5);
+    color: #FFF;
+    border: 1px solid #409EFF;
+    line-height: 1;
+    white-space: nowrap;
+    cursor: pointer;
+    text-align: center;
+    outline: 0;
+    font-weight: 500;
+}
+.button:focus {
+    outline: 0;
+}
+.button:hover{
+    transition: color 1s;
+    background: linear-gradient(to left, #2E9FFF, #3E79FF);
+}

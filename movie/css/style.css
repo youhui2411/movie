@@ -1,0 +1,14 @@
+.LogoText{
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    color: black !important;
+}
+.carousel-item img{
+
+    width: 65%;
+    max-height: 450px;
+}
+.item .itemBody img{
+    border-radius: 10px;
+    width: 210px;
+    height: 140px;
+}
