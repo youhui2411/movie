@@ -8,33 +8,33 @@ movie是基于PHP+Mysql开发的动漫网站。
 
 ### 1、登录
 
-![](image\\login.PNG)
+![](.\\image\\login.PNG)
 
 ### 2、主界面
 
-![](image\\index.PNG)
+![](.\\image\\index.PNG)
 
 ### 3、搜索
 
-![](image\\search.PNG)
+![](.\\image\\search.PNG)
 
 ## 管理员
 
 ### 1、登录
 
-![](image\\adminlogin.PNG)
+![](.\\image\\adminlogin.PNG)
 
 ### 2、上传视频
 
-![](image\\upload.PNG)
+![](.\\image\\upload.PNG)
 
 ### 3、管理视频
 
-![](image\\manage.PNG)
+![](.\\image\\manage.PNG)
 
 ### 4、管理评论
 
-![](image\\comment.PNG)
+![](.\\image\\comment.PNG)
 
 # 技术选型
 
